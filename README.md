@@ -4,7 +4,7 @@
 
 Наша нейронная сеть написана на базе архитектуры `AlexNet`. 
 
-[AlexNet](https://github.com/rereremin/CNN/blob/main/AlexNet-1-1.png)
+![AlexNet](https://github.com/rereremin/CNN/blob/main/AlexNet-1-1.png)
 
 **INPUT:** нейросеть получает 3 папки с изображениями: *Train*, *Validation*, *Test*. В каждой из которых находится еще 6 папок, которые характеризуют один класс изображений, в нашем случае, изображений овощей. В каждом классе в `Train` содержится по 400 изображений, в `Test` и `Train` содержится по 100 изображений.
 
